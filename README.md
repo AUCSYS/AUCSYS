@@ -1,0 +1,2 @@
+# AUCSYS
+AUCSYS é um programa que tem como objetivo, auxiliar na administração e controle civil durante desastres e crises urbanas. Usando tecnologia de mapeamento geográfico e estatística, AUCSYS é voltado para orgãos governamentais, e fazer o futuro mais seguro para a população. /  AUCSYS is a program that aims to assist in the administration and civil control during disasters and urban crises. Using geographic and statistical mapping technology, AUCSYS is geared toward government agencies, and make the future safer for the population.
